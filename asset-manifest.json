@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bifrost/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Bifrost/static/js/main.6afdd19a.chunk.js",
+    "main.js.map": "/Bifrost/static/js/main.6afdd19a.chunk.js.map",
+    "runtime-main.js": "/Bifrost/static/js/runtime-main.add751a6.js",
+    "runtime-main.js.map": "/Bifrost/static/js/runtime-main.add751a6.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Bifrost/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8b5b41b2.chunk.js": "/Bifrost/static/js/2.8b5b41b2.chunk.js",
+    "static/js/2.8b5b41b2.chunk.js.map": "/Bifrost/static/js/2.8b5b41b2.chunk.js.map",
+    "index.html": "/Bifrost/index.html",
+    "precache-manifest.bfe92e0d15b9b49aedcc0726a746b602.js": "/Bifrost/precache-manifest.bfe92e0d15b9b49aedcc0726a746b602.js",
+    "service-worker.js": "/Bifrost/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Bifrost/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Bifrost/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8b5b41b2.chunk.js.LICENSE.txt": "/Bifrost/static/js/2.8b5b41b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add751a6.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8b5b41b2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6afdd19a.chunk.js"
+  ]
+}
