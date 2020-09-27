@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "343b67d23fd54abd7ffa977aba4c2ae3",
+    "revision": "e6e9711d54964df32510d52597eaa8b5",
     "url": "/Bifrost/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bifrost/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "1185f1324fb8db687bb6",
+    "revision": "1e6a4fb87650302857d1",
     "url": "/Bifrost/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bifrost/static/js/2.8b5b41b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1185f1324fb8db687bb6",
-    "url": "/Bifrost/static/js/main.6afdd19a.chunk.js"
+    "revision": "1e6a4fb87650302857d1",
+    "url": "/Bifrost/static/js/main.44d61381.chunk.js"
   },
   {
     "revision": "16d264c80dbac94220a3",

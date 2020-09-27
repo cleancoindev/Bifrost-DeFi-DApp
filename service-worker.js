@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bifrost/precache-manifest.bfe92e0d15b9b49aedcc0726a746b602.js"
+  "/Bifrost/precache-manifest.10f491df5865bc50444c91dcfc3ff733.js"
 );
 
 self.addEventListener('message', (event) => {
