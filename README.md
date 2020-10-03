@@ -1,6 +1,8 @@
 # Bifrost
 Cross-Chain Wrapped Tokens. The Einstein-Rosen Blockchain Bridge.
 
+Winner at Chainlink Hackathon 2020 https://devpost.com/software/bifrost-baking-token
+
 # Inspiration
 We want XTZ holders to be able to fully participate in defi lending while still earning staking rewards.
 Stake on Tezos and lend on Ethereum for double passive income!
